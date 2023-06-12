@@ -1,10 +1,28 @@
+body{
+    margin: 0%;
+}
+
 header{
     background-image: url(../img/pattern.png);
     background-color:#4d9fff ;
-    height: 200px;
+    background-size: 400px;
+    height: 100px;
+
 }
 
 .logo{
-    width: 100px;
-    margin-top: 150px;
+    width: 150px;
+    margin-top: 60px;
+}
+
+h1{
+    font-size: 48px;
+}
+
+.booleaners{
+    color: #16a4e3;
+}
+
+.main{
+    color: #7e7e7e;
 }
