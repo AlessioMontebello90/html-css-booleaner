@@ -31,6 +31,20 @@ h1{
     background-color: yellow;
 }
 
+.tablerow{
+    background-color: #4d9fff;
+}
+
+.tablerow2{
+    background-color: #16a4e3;
+}
+
+.col1,.col2{
+    width: 25%;
+}
+.col3{
+    width: 50%;
+}
 h3{
     color: #7e7e7e;
 }
@@ -40,6 +54,7 @@ h3{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     height: 200px;
+    padding: 10px;
     
 }
 
@@ -48,5 +63,6 @@ h3{
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     height: 200px;
+    padding: 10px;
     
 }
