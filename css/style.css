@@ -31,3 +31,22 @@ h1{
     background-color: yellow;
 }
 
+h3{
+    color: #7e7e7e;
+}
+
+.info1{
+    color: #7e7e7e;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    
+}
+
+.info2{
+    color: #7e7e7e;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    
+}
